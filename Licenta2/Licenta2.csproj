@@ -1,0 +1,880 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12601C34-8F36-43C1-B141-0B8D46C1980F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Licenta2</RootNamespace>
+    <AssemblyName>Licenta2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44368</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="404.aspx" />
+    <Content Include="500.aspx" />
+    <Content Include="503.aspx" />
+    <Content Include="Abonamente.aspx" />
+    <Content Include="images\imgindex.png" />
+    <Content Include="index.aspx" />
+    <Content Include="Acasalog.aspx" />
+    <Content Include="Acasa.aspx" />
+    <Content Include="addpachet.aspx" />
+    <Content Include="images\imgpec.png" />
+    <Content Include="js\indexjs.js" />
+    <Content Include="pachetsts.aspx" />
+    <Content Include="meniucl.aspx" />
+    <Content Include="Administrator.aspx" />
+    <Content Include="Asistentilog.aspx" />
+    <Content Include="Contactlog.aspx" />
+    <Content Include="css\acasa.css" />
+    <Content Include="css\Autentificare.css" />
+    <Content Include="css\Catalog.css" />
+    <Content Include="css\Contact.css" />
+    <Content Include="css\contact1.css" />
+    <Content Include="css\errorcss.css" />
+    <Content Include="css\footer.css" />
+    <Content Include="css\form.css" />
+    <Content Include="css\index.css" />
+    <Content Include="css\Inregistrare.css" />
+    <Content Include="css\navbar.css" />
+    <Content Include="css\Sfaturi.css" />
+    <Content Include="css\slideshow.css" />
+    <Content Include="exemplelog.aspx" />
+    <Content Include="exemple.aspx" />
+    <Content Include="images\1.1.png" />
+    <Content Include="images\1.png" />
+    <Content Include="images\2.png" />
+    <Content Include="images\bine_ai_venit.png" />
+    <Content Include="images\bucle.png" />
+    <Content Include="images\calendar.jpg" />
+    <Content Include="images\clock.png" />
+    <Content Include="images\coafor.png" />
+    <Content Include="images\coaf\coaf.jpg" />
+    <Content Include="images\coaf\coafatlung.jpg" />
+    <Content Include="images\coaf\coafatmediu.jpg" />
+    <Content Include="images\coaf\coafatscurt.jpg" />
+    <Content Include="images\cosm\cosm.jpg" />
+    <Content Include="images\cosm\cosmas.jpg" />
+    <Content Include="images\cosm\cosmbk.jpg" />
+    <Content Include="images\cosm\cosmbk1.jpg" />
+    <Content Include="images\cosm\cosmmic.jpg" />
+    <Content Include="images\cosm\cosmmic1.jpg" />
+    <Content Include="images\cristina.jpg" />
+    <Content Include="images\dem.png" />
+    <Content Include="images\eu.jpg" />
+    <Content Include="images\fix.png" />
+    <Content Include="images\home1.png" />
+    <Content Include="images\home2.png" />
+    <Content Include="images\homebk.png" />
+    <Content Include="images\IMG_20190609_200627_843.jpg" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\machiaj\1.jpg" />
+    <Content Include="images\machiaj\10.jpg" />
+    <Content Include="images\machiaj\2.jpg" />
+    <Content Include="images\machiaj\3.jpg" />
+    <Content Include="images\machiaj\4.jpg" />
+    <Content Include="images\machiaj\5.jpg" />
+    <Content Include="images\machiaj\6.jpg" />
+    <Content Include="images\machiaj\7.jpg" />
+    <Content Include="images\machiaj\8.jpg" />
+    <Content Include="images\machiaj\9.jpg" />
+    <Content Include="images\machiaj\mk1.jpg" />
+    <Content Include="images\machiaj\mk2.jpg" />
+    <Content Include="images\machiaj\mk3.jpg" />
+    <Content Include="images\machiaj\mk4.jpg" />
+    <Content Include="images\machiaj\mk5.jpg" />
+    <Content Include="images\machiaj\mkUpp.jpg" />
+    <Content Include="images\mani1.jpg" />
+    <Content Include="images\mani2.jpg" />
+    <Content Include="images\manichiura\1.jpg" />
+    <Content Include="images\manichiura\10.jpg" />
+    <Content Include="images\manichiura\11.jpg" />
+    <Content Include="images\manichiura\12.jpg" />
+    <Content Include="images\manichiura\13.jpg" />
+    <Content Include="images\manichiura\14.jpg" />
+    <Content Include="images\manichiura\15.jpg" />
+    <Content Include="images\manichiura\16.jpg" />
+    <Content Include="images\manichiura\17.jpg" />
+    <Content Include="images\manichiura\18.jpg" />
+    <Content Include="images\manichiura\19.jpg" />
+    <Content Include="images\manichiura\2.jpg" />
+    <Content Include="images\manichiura\20.jpg" />
+    <Content Include="images\manichiura\21.jpg" />
+    <Content Include="images\manichiura\22.jpg" />
+    <Content Include="images\manichiura\23.jpg" />
+    <Content Include="images\manichiura\24.jpg" />
+    <Content Include="images\manichiura\25.jpg" />
+    <Content Include="images\manichiura\26.jpg" />
+    <Content Include="images\manichiura\27.jpg" />
+    <Content Include="images\manichiura\28.jpg" />
+    <Content Include="images\manichiura\29.jpg" />
+    <Content Include="images\manichiura\3.jpg" />
+    <Content Include="images\manichiura\30.jpg" />
+    <Content Include="images\manichiura\31.jpg" />
+    <Content Include="images\manichiura\32.jpg" />
+    <Content Include="images\manichiura\33.jpg" />
+    <Content Include="images\manichiura\34.jpg" />
+    <Content Include="images\manichiura\4.jpg" />
+    <Content Include="images\manichiura\5.jpg" />
+    <Content Include="images\manichiura\6.jpg" />
+    <Content Include="images\manichiura\7.jpg" />
+    <Content Include="images\manichiura\8.jpg" />
+    <Content Include="images\manichiura\9.jpg" />
+    <Content Include="images\maria.jpg" />
+    <Content Include="images\mkup.jpg" />
+    <Content Include="images\mkup.png" />
+    <Content Include="images\nails.png" />
+    <Content Include="images\pedi.jpg" />
+    <Content Include="images\pedi\51361142660_0411eccc40_c.jpg" />
+    <Content Include="images\pedi\pedi1.jpg" />
+    <Content Include="images\pedi\pedi2.jpg" />
+    <Content Include="images\pedi\pedi3.jpg" />
+    <Content Include="images\play_tut.png" />
+    <Content Include="images\purple-gradient-desktop-wallpaper.png" />
+    <Content Include="images\relaxare.png" />
+    <Content Include="images\review.png" />
+    <Content Include="images\shamp.png" />
+    <Content Include="images\style.png" />
+    <Content Include="images\tuns\barber.jpg" />
+    <Content Include="images\tuns\tunslung.jpg" />
+    <Content Include="images\tuns\tunsmed.jpg" />
+    <Content Include="images\tuns\tunsscurt.jpg" />
+    <Content Include="images\vera.jpg" />
+    <Content Include="images\vopsit\decollung.jpg" />
+    <Content Include="images\vopsit\decolmed.jpg" />
+    <Content Include="images\vopsit\decolscurt.jpg" />
+    <Content Include="images\vopsit\vopsited.jpg" />
+    <Content Include="images\vopsit\vopsitlung.jpg" />
+    <Content Include="images\vopsit\vopsitscurt.jpg" />
+    <Content Include="Contact.aspx" />
+    <Content Include="js\animatii.js" />
+    <Content Include="js\back.js" />
+    <Content Include="js\btback.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.validate.min.js" />
+    <Content Include="js\popper.js" />
+    <Content Include="js\slideshow.js" />
+    <Content Include="js\stickynav.js" />
+    <Content Include="pachete.aspx" />
+    <Content Include="topAng.aspx" />
+    <Content Include="Top.aspx" />
+    <Content Include="Salarii.aspx" />
+    <Content Include="PolConf.aspx" />
+    <Content Include="Produselog.aspx" />
+    <Content Include="Produse.aspx" />
+    <Content Include="Asistenti.aspx" />
+    <Content Include="App_Data\Licenta.mdf" />
+    <Content Include="App_Data\Licenta_log.ldf">
+      <DependentUpon>Licenta.mdf</DependentUpon>
+    </Content>
+    <Content Include="Autentificare.aspx" />
+    <Content Include="Client.aspx" />
+    <Content Include="ClientVizualizare.aspx" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\Custom-Cs.css" />
+    <Content Include="css\main.css" />
+    <Content Include="css\util.css" />
+    <Content Include="TermeniCD.aspx" />
+    <Content Include="fonts\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="fonts\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\Linearicons-Free-v1.0.0\icon-font.min.css" />
+    <Content Include="fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.svg" />
+    <Content Include="fonts\montserrat\OFL.txt" />
+    <Content Include="images\3.png" />
+    <Content Include="images\gallery1.jpg" />
+    <Content Include="images\gallery2.jpg" />
+    <Content Include="images\home.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\mail.png" />
+    <Content Include="images\map.png" />
+    <Content Include="images\phone.jpg" />
+    <Content Include="Inregistrare.aspx" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\main2.js" />
+    <Content Include="js\main3.js" />
+    <Content Include="js\npm.js" />
+    <Content Include="js\wow.min.js" />
+    <Content Include="MAbon.aspx" />
+    <Content Include="MAbonClase.aspx" />
+    <Content Include="MAntrenori.aspx" />
+    <Content Include="MRezervari.aspx" />
+    <Content Include="MUtilizatori.aspx" />
+    <Content Include="RezervariC.aspx" />
+    <Content Include="vendor\vendor\animate.css\animate.compat.css" />
+    <Content Include="vendor\vendor\animate.css\animate.css" />
+    <Content Include="vendor\vendor\animate.css\animate.min.css" />
+    <Content Include="vendor\vendor\aos\aos.css" />
+    <Content Include="vendor\vendor\aos\aos.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker.min.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker.standalone.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker.standalone.min.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.min.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.standalone.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.standalone.min.css" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\js\bootstrap-datepicker.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\js\bootstrap-datepicker.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker-en-CA.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ar-tn.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ar.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.az.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bg.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bm.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bn.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.br.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bs.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ca.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.cs.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.cy.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.da.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.de.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.el.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-AU.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-CA.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-GB.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-IE.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-NZ.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-ZA.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.eo.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.es.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.et.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.eu.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fa.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fi.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fo.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fr-CH.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fr.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.gl.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.he.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hi.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hr.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hu.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hy.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.id.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.is.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.it-CH.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.it.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ja.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ka.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.kh.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.kk.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.km.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ko.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.kr.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.lt.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.lv.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.me.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.mk.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.mn.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ms.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.nl-BE.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.nl.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.no.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.oc.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.pl.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.pt-BR.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.pt.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ro.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.rs-latin.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.rs.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ru.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.si.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sk.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sl.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sq.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sr-latin.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sr.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sv.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sw.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ta.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.tg.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.th.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.tk.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.tr.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.uk.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.uz-cyrl.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.uz-latn.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.vi.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.zh-CN.min.js" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.zh-TW.min.js" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="vendor\vendor\boxicons\css\animations.css" />
+    <Content Include="vendor\vendor\boxicons\css\boxicons.css" />
+    <Content Include="vendor\vendor\boxicons\css\boxicons.min.css" />
+    <Content Include="vendor\vendor\boxicons\css\transformations.css" />
+    <Content Include="vendor\vendor\boxicons\fonts\boxicons.svg" />
+    <Content Include="vendor\vendor\counterup\counterup.min.js" />
+    <Content Include="vendor\vendor\icofont\icofont.min.css" />
+    <Content Include="vendor\vendor\isotope-layout\isotope.pkgd.js" />
+    <Content Include="vendor\vendor\isotope-layout\isotope.pkgd.min.js" />
+    <Content Include="vendor\vendor\jquery.easing\jquery.easing.min.js" />
+    <Content Include="vendor\vendor\jquery\jquery.min.js" />
+    <Content Include="vendor\vendor\line-awesome\css\line-awesome.css" />
+    <Content Include="vendor\vendor\line-awesome\css\line-awesome.min.css" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-brands-400.svg" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-regular-400.svg" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-solid-900.svg" />
+    <Content Include="vendor\vendor\owl.carousel\assets\ajax-loader.gif" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.carousel.css" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.carousel.min.css" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.theme.default.css" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.theme.default.min.css" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.theme.green.css" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.theme.green.min.css" />
+    <Content Include="vendor\vendor\owl.carousel\assets\owl.video.play.png" />
+    <Content Include="vendor\vendor\owl.carousel\owl.carousel.js" />
+    <Content Include="vendor\vendor\owl.carousel\owl.carousel.min.js" />
+    <Content Include="vendor\vendor\php-email-form\validate.js" />
+    <Content Include="vendor\vendor\remixicon\remixicon.css" />
+    <Content Include="vendor\vendor\remixicon\remixicon.svg" />
+    <Content Include="vendor\vendor\remixicon\remixicon.symbol.svg" />
+    <Content Include="vendor\vendor\venobox\venobox.css" />
+    <Content Include="vendor\vendor\venobox\venobox.js" />
+    <Content Include="vendor\vendor\venobox\venobox.min.css" />
+    <Content Include="vendor\vendor\venobox\venobox.min.js" />
+    <Content Include="vendor\vendor\waypoints\jquery.waypoints.min.js" />
+    <Content Include="Mesaje.aspx" />
+    <Content Include="video.aspx" />
+    <Content Include="video\Asistenti - Google Chrome 2022-08-05 05-41-11.mp4" />
+    <Content Include="VizRezervari.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="404.aspx.cs">
+      <DependentUpon>404.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="404.aspx.designer.cs">
+      <DependentUpon>404.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="500.aspx.cs">
+      <DependentUpon>500.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="500.aspx.designer.cs">
+      <DependentUpon>500.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="503.aspx.cs">
+      <DependentUpon>503.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="503.aspx.designer.cs">
+      <DependentUpon>503.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Abonamente.aspx.cs">
+      <DependentUpon>Abonamente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Abonamente.aspx.designer.cs">
+      <DependentUpon>Abonamente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acasalog.aspx.cs">
+      <DependentUpon>Acasalog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acasalog.aspx.designer.cs">
+      <DependentUpon>Acasalog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acasa.aspx.cs">
+      <DependentUpon>Acasa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acasa.aspx.designer.cs">
+      <DependentUpon>Acasa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="addpachet.aspx.cs">
+      <DependentUpon>addpachet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="addpachet.aspx.designer.cs">
+      <DependentUpon>addpachet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pachetsts.aspx.cs">
+      <DependentUpon>pachetsts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pachetsts.aspx.designer.cs">
+      <DependentUpon>pachetsts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="meniucl.aspx.cs">
+      <DependentUpon>meniucl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="meniucl.aspx.designer.cs">
+      <DependentUpon>meniucl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator.aspx.cs">
+      <DependentUpon>Administrator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrator.aspx.designer.cs">
+      <DependentUpon>Administrator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator.Master.cs">
+      <DependentUpon>Administrator.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrator.Master.designer.cs">
+      <DependentUpon>Administrator.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Asistentilog.aspx.cs">
+      <DependentUpon>Asistentilog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asistentilog.aspx.designer.cs">
+      <DependentUpon>Asistentilog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contactlog.aspx.cs">
+      <DependentUpon>Contactlog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contactlog.aspx.designer.cs">
+      <DependentUpon>Contactlog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exemplelog.aspx.cs">
+      <DependentUpon>exemplelog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exemplelog.aspx.designer.cs">
+      <DependentUpon>exemplelog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exemple.aspx.cs">
+      <DependentUpon>exemple.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exemple.aspx.designer.cs">
+      <DependentUpon>exemple.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pachete.aspx.cs">
+      <DependentUpon>pachete.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pachete.aspx.designer.cs">
+      <DependentUpon>pachete.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="topAng.aspx.cs">
+      <DependentUpon>topAng.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="topAng.aspx.designer.cs">
+      <DependentUpon>topAng.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Top.aspx.cs">
+      <DependentUpon>Top.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Top.aspx.designer.cs">
+      <DependentUpon>Top.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Salarii.aspx.cs">
+      <DependentUpon>Salarii.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Salarii.aspx.designer.cs">
+      <DependentUpon>Salarii.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PolConf.aspx.cs">
+      <DependentUpon>PolConf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PolConf.aspx.designer.cs">
+      <DependentUpon>PolConf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Produselog.aspx.cs">
+      <DependentUpon>Produselog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Produselog.aspx.designer.cs">
+      <DependentUpon>Produselog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Produse.aspx.cs">
+      <DependentUpon>Produse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Produse.aspx.designer.cs">
+      <DependentUpon>Produse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asistenti.aspx.cs">
+      <DependentUpon>Asistenti.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asistenti.aspx.designer.cs">
+      <DependentUpon>Asistenti.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Autentificare.aspx.cs">
+      <DependentUpon>Autentificare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Autentificare.aspx.designer.cs">
+      <DependentUpon>Autentificare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Client.aspx.cs">
+      <DependentUpon>Client.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Client.aspx.designer.cs">
+      <DependentUpon>Client.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Client.Master.cs">
+      <DependentUpon>Client.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Client.Master.designer.cs">
+      <DependentUpon>Client.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ClientVizualizare.aspx.cs">
+      <DependentUpon>ClientVizualizare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ClientVizualizare.aspx.designer.cs">
+      <DependentUpon>ClientVizualizare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TermeniCD.aspx.cs">
+      <DependentUpon>TermeniCD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TermeniCD.aspx.designer.cs">
+      <DependentUpon>TermeniCD.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inregistrare.aspx.cs">
+      <DependentUpon>Inregistrare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inregistrare.aspx.designer.cs">
+      <DependentUpon>Inregistrare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MAbon.aspx.cs">
+      <DependentUpon>MAbon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MAbon.aspx.designer.cs">
+      <DependentUpon>MAbon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MAbonClase.aspx.cs">
+      <DependentUpon>MAbonClase.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MAbonClase.aspx.designer.cs">
+      <DependentUpon>MAbonClase.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MAntrenori.aspx.cs">
+      <DependentUpon>MAntrenori.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MAntrenori.aspx.designer.cs">
+      <DependentUpon>MAntrenori.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MRezervari.aspx.cs">
+      <DependentUpon>MRezervari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MRezervari.aspx.designer.cs">
+      <DependentUpon>MRezervari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MUtilizatori.aspx.cs">
+      <DependentUpon>MUtilizatori.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MUtilizatori.aspx.designer.cs">
+      <DependentUpon>MUtilizatori.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RezervariC.aspx.cs">
+      <DependentUpon>RezervariC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RezervariC.aspx.designer.cs">
+      <DependentUpon>RezervariC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mesaje.aspx.cs">
+      <DependentUpon>Mesaje.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mesaje.aspx.designer.cs">
+      <DependentUpon>Mesaje.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="video.aspx.cs">
+      <DependentUpon>video.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="video.aspx.designer.cs">
+      <DependentUpon>video.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VizRezervari.aspx.cs">
+      <DependentUpon>VizRezervari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VizRezervari.aspx.designer.cs">
+      <DependentUpon>VizRezervari.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Include="fonts\font-awesome-4.7.0\less\animated.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\core.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\icons.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\larger.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\list.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\mixins.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\path.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\stacked.less" />
+    <Content Include="fonts\font-awesome-4.7.0\less\variables.less" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Include="fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Include="fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.eot" />
+    <Content Include="fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.ttf" />
+    <Content Include="fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff" />
+    <Content Include="fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff2" />
+    <Content Include="fonts\montserrat\Montserrat-Black.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-BlackItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-Bold.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-BoldItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-ExtraBold.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-ExtraBoldItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-ExtraLight.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-ExtraLightItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-Italic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-Light.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-LightItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-Medium.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-MediumItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-Regular.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-SemiBold.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-SemiBoldItalic.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-Thin.ttf" />
+    <Content Include="fonts\montserrat\Montserrat-ThinItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Black.ttf" />
+    <Content Include="fonts\poppins\Poppins-BlackItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Bold.ttf" />
+    <Content Include="fonts\poppins\Poppins-BoldItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-ExtraBold.ttf" />
+    <Content Include="fonts\poppins\Poppins-ExtraBoldItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-ExtraLight.ttf" />
+    <Content Include="fonts\poppins\Poppins-ExtraLightItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Italic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Light.ttf" />
+    <Content Include="fonts\poppins\Poppins-LightItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Medium.ttf" />
+    <Content Include="fonts\poppins\Poppins-MediumItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Regular.ttf" />
+    <Content Include="fonts\poppins\Poppins-SemiBold.ttf" />
+    <Content Include="fonts\poppins\Poppins-SemiBoldItalic.ttf" />
+    <Content Include="fonts\poppins\Poppins-Thin.ttf" />
+    <Content Include="fonts\poppins\Poppins-ThinItalic.ttf" />
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="Client.Master" />
+    <Content Include="Administrator.Master" />
+    <Content Include="images\1.webp" />
+    <Content Include="images\2.webp" />
+    <Content Include="images\3.webp" />
+    <Content Include="images\bucle.webp" />
+    <Content Include="images\dem.webp" />
+    <Content Include="images\fix.webp" />
+    <Content Include="images\play_tut.webp" />
+    <Content Include="images\shamp.webp" />
+    <None Include="packages.config" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker.css.map" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker.standalone.css.map" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.css.map" />
+    <Content Include="vendor\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.standalone.css.map" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="vendor\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="vendor\vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="vendor\vendor\boxicons\fonts\boxicons.eot" />
+    <Content Include="vendor\vendor\boxicons\fonts\boxicons.ttf" />
+    <Content Include="vendor\vendor\boxicons\fonts\boxicons.woff" />
+    <Content Include="vendor\vendor\boxicons\fonts\boxicons.woff2" />
+    <Content Include="vendor\vendor\icofont\fonts\icofont.woff" />
+    <Content Include="vendor\vendor\icofont\fonts\icofont.woff2" />
+    <Content Include="vendor\vendor\jquery\jquery.min.map" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-brands-400.eot" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-brands-400.ttf" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-brands-400.woff" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-brands-400.woff2" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-regular-400.eot" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-regular-400.ttf" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-regular-400.woff" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-regular-400.woff2" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-solid-900.eot" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-solid-900.ttf" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-solid-900.woff" />
+    <Content Include="vendor\vendor\line-awesome\fonts\la-solid-900.woff2" />
+    <Content Include="vendor\vendor\owl.carousel\LICENSE" />
+    <Content Include="vendor\vendor\owl.carousel\README.md" />
+    <Content Include="vendor\vendor\remixicon\remixicon.eot" />
+    <Content Include="vendor\vendor\remixicon\remixicon.less" />
+    <Content Include="vendor\vendor\remixicon\remixicon.ttf" />
+    <Content Include="vendor\vendor\remixicon\remixicon.woff" />
+    <Content Include="vendor\vendor\remixicon\remixicon.woff2" />
+    <None Include="Properties\PublishProfiles\lavinia-001-site1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\lavinia-001-site1 - Web Deploy.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53156</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44368/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

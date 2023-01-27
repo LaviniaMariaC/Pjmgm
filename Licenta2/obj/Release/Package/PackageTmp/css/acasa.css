@@ -1,0 +1,74 @@
+﻿
+
+body {
+    margin: 0;
+    background-image: url(../images/homebk.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back_to_top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    margin: 5%;
+}
+
+.animation {
+}
+
+
+
+.bottom-to-top, .wpb_bottom-to-top {
+    -webkit-animation: wpb_btt .7s 1 cubic-bezier(.175,.885,.32,1.275);
+    -o-animation: wpb_btt .7s 1 cubic-bezier(.175,.885,.32,1.275);
+    animation: wpb_btt .7s 1 cubic-bezier(.175,.885,.32,1.275);
+}
+.carousel-item {
+    height: 32rem;
+    position: relative;
+    background: #625772;
+    padding-top: 15px;
+    padding-bottom: 4px;
+    text-align: justify;
+}
+.audio {
+    text-align: center;
+    align-content: center;
+    align-items:center;
+}
+.card-img-top{
+    align-items:center;
+}
+.line {
+    border: 1px solid black;
+}
+
+#UpdatePanel1
+{
+    width:auto;
+    height:auto;
+    max-height: auto;
+}
+.txt {
+    font-weight: 700;
+    font-size: 3em;
+    font-family: 'Oooh Baby',cursive;
+    color: #625772;
+    margin-top: -60px;
+    text-align: center;
+}
+.r{
+    text-align:right;
+}
+.fon {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    background-color:white;
+}
+@media screen and (max-width: 600px) {
+    ul.topnav li.right,
+    ul.topnav li, Image1 {
+        float: none;
+    }}

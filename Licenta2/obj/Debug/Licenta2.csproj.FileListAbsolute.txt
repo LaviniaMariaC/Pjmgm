@@ -1,0 +1,988 @@
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\denis\source\repos\Licenta2\Licenta2\obj\Debug\Licenta2.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CopyComplete
+C:\Users\denis\source\repos\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\denis\source\repos\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\LicentaRal\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\LicentaRal - Copy\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\licenta\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz\licenta 2-stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\studiu de caz - Copy - Copy - Copy\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+D:\licenta st\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\rez\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+D:\licenta st\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+D:\licenta st\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\app_edit\applic_cript\rez - Copy\studiu de caz - Cop8\stud caz\Licenta2\Licenta2\obj\Debug\Licenta2.pdb
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\Licenta2.dll.config
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\Licenta2.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\Licenta2.pdb
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\csc.exe
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\csc.exe.config
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\csc.rsp
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\csi.exe
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\csi.exe.config
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\csi.rsp
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.AppContext.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Console.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Net.Http.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\vbc.exe
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\vbc.exe.config
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\vbc.rsp
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lav\Desktop\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.AssemblyReference.cache
+C:\Users\Lav\Desktop\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CoreCompileInputs.cache
+C:\Users\Lav\Desktop\Licenta2\Licenta2\obj\Debug\Licenta2.csproj.CopyComplete
+C:\Users\Lav\Desktop\Licenta2\Licenta2\obj\Debug\Licenta2.dll
+C:\Users\Lav\Desktop\Licenta2\Licenta2\obj\Debug\Licenta2.pdb

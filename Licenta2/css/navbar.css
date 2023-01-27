@@ -1,0 +1,57 @@
+﻿.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#topnav {
+    overflow: hidden;
+}
+
+ul.topnav {
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    padding: 15px; /* Some padding */
+    
+    margin: 0;
+    background-color: black;
+    position: sticky;
+    width: 100%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.25rem;
+    font-weight: 800;
+    line-height: 2;
+}
+
+    ul.topnav li {
+        float: left;
+    }
+
+        ul.topnav li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            ul.topnav li a:hover:not(.active) {
+                background-color: black;
+            }
+
+            ul.topnav li a.active {
+                background-color: #625772;
+            }
+
+        ul.topnav li.right {
+            float: right;
+        }
+
+@media screen and (max-width: 600px) {
+    ul.topnav li.right,
+    ul.topnav li,Image1 {
+        float: none;
+        
+    }
+}

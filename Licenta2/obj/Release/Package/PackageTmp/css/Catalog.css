@@ -1,0 +1,26 @@
+﻿
+
+body {
+    margin: 0;
+}
+
+.back_to_top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    margin: 5%;
+}
+
+.carousel-item {
+    height: 32rem;
+    position: relative;
+    background: #625772;
+    padding-top: 15px;
+    padding-bottom: 4px;
+    text-align: justify;
+}
+
+.audio {
+    text-align: center;
+}
